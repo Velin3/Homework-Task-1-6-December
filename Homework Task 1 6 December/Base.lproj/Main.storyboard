@@ -28,17 +28,14 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="9nK-CY-rX5" secondAttribute="bottom" constant="15" id="3DT-5G-u93"/>
-                            <constraint firstItem="9nK-CY-rX5" firstAttribute="top" secondItem="d3L-A6-bwB" secondAttribute="bottom" constant="20" id="9dT-Ao-Lor"/>
-                            <constraint firstItem="9nK-CY-rX5" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="COF-7Z-BAU"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="d3L-A6-bwB" secondAttribute="trailing" constant="20" id="N6Y-oW-HR2"/>
-                            <constraint firstItem="d3L-A6-bwB" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="Tsc-Rl-zjr"/>
-                            <constraint firstItem="9nK-CY-rX5" firstAttribute="height" secondItem="d3L-A6-bwB" secondAttribute="height" id="X6x-Yu-0C8"/>
-                            <constraint firstItem="d3L-A6-bwB" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="Yzg-uu-6u1"/>
-                            <constraint firstItem="d3L-A6-bwB" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="15" id="bjp-uI-Oba"/>
-                            <constraint firstItem="9nK-CY-rX5" firstAttribute="width" secondItem="d3L-A6-bwB" secondAttribute="width" id="f79-pO-D0Z"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="d3L-A6-bwB" secondAttribute="trailing" constant="20" id="p79-S6-PJd"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="9nK-CY-rX5" secondAttribute="trailing" constant="20" id="ysF-YB-E5u"/>
+                            <constraint firstItem="9nK-CY-rX5" firstAttribute="height" secondItem="d3L-A6-bwB" secondAttribute="height" id="0ie-jd-ZSh"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="d3L-A6-bwB" secondAttribute="trailing" constant="20" id="P8w-px-PN3"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="9nK-CY-rX5" secondAttribute="trailing" constant="20" id="TGI-IJ-ZlD"/>
+                            <constraint firstItem="d3L-A6-bwB" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="15" id="Tlb-XI-Afy"/>
+                            <constraint firstItem="9nK-CY-rX5" firstAttribute="top" secondItem="d3L-A6-bwB" secondAttribute="bottom" constant="20" id="Zmf-Kj-8fE"/>
+                            <constraint firstItem="9nK-CY-rX5" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="a7F-xp-WUj"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="9nK-CY-rX5" secondAttribute="bottom" constant="15" id="fla-gR-q6K"/>
+                            <constraint firstItem="d3L-A6-bwB" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="fqI-4u-f9l"/>
                         </constraints>
                     </view>
                 </viewController>
